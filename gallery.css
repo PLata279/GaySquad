@@ -19,37 +19,37 @@
 
     <!-- Блок 1 -->
     <div class="item">
-        <img src="img/1.jpg" alt="Фото 1">
+        <img src="img/1.jpg.png" alt="Фото 1">
         <div class="description">Это описание для первой фотографии из папки img.</div>
     </div>
 
     <!-- Блок 2 -->
     <div class="item">
-        <img src="img/2.jpg" alt="Фото 2">
+        <img src="img/2.jpg.png" alt="Фото 2">
         <div class="description">Здесь находится текст для второго изображения.</div>
     </div>
 
     <!-- Блок 3 -->
     <div class="item">
-        <img src="img/3.jpg" alt="Фото 3">
+        <img src="img/3.jpg.png" alt="Фото 3">
         <div class="description">Третье фото и текст справа от него.</div>
     </div>
 
     <!-- Блок 4 -->
     <div class="item">
-        <img src="img/4.jpg" alt="Фото 4">
+        <img src="img/4.jpg.png" alt="Фото 4">
         <div class="description">Четвертый элемент нашего списка.</div>
     </div>
 
     <!-- Блок 5 -->
     <div class="item">
-        <img src="img/5.jpg" alt="Фото 5">
+        <img src="img/5.jpg.png" alt="Фото 5">
         <div class="description">Пятое описание в колонке.</div>
     </div>
 
     <!-- Блок 6 -->
     <div class="item">
-        <img src="img/6.jpg" alt="Фото 6">
+        <img src="img/6.jpg.png" alt="Фото 6">
         <div class="description">Шестое фото. Почти закончили.</div>
     </div>
 
